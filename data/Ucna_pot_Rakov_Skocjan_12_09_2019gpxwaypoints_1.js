@@ -1,0 +1,1 @@
+var json_Ucna_pot_Rakov_Skocjan_12_09_2019gpxwaypoints_1 = {"type":"FeatureCollection","name":"Ucna_pot_Rakov_Skocjan_12_09_2019gpxwaypoints_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
